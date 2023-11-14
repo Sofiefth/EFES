@@ -5,7 +5,7 @@ EFES: EpiDoc Front-End Services
 
 The authors of EFES plan to offer advanced, follow-up training workshops for students already familiar with EpiDoc, but lacking further technical skills, with a view to empowering them to create and manage all stages of their digital publication, from modelling to indexing to publishing online.
 
-EFES is a fork of the **Kiln** publication plaform, described below.
+EFES is a fork of the **Kiln** publication platform, described below.
 
 EFES code repository:
 ----
