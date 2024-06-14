@@ -1,7 +1,7 @@
 EFES: EpiDoc Front-End Services
 ===============================
 
-EFES version `June-2024-aligned-with-EpiDoc-9.6`
+EFES version ``June-2024-aligned-with-EpiDoc-9.6``
 
 **EFES is a delivery, search and browse platform that can be set up and customized for an individual EpiDoc XML-based project with only minimal training and technical skill on the part of a project team.**
 
